@@ -1,6 +1,6 @@
 # Akka-DotNet-Persistence-Fundamentals
 
-Learning Akka.Net Persistence from Pluralsight course "Akka.NET Persistence Fundamentals"
+Learning Akka.Net Persistence from Pluralsight course "Akka.NET Persistence Fundamentals" by Jason Roberts
 
 https://app.pluralsight.com/library/courses/akka-dotnet-persistence-fundamentals
 
